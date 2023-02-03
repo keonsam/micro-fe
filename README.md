@@ -1,2 +1,2 @@
 # micro-fe
-Microfrontends ecom app
+Microfrontend ecom app
